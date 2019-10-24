@@ -29,14 +29,14 @@
 
 <!-- minimize, maximize -->
 <constant name="C_button_bg_hover" value="#fdfdfd" />
-<constant name="C_button_bg_active" value="#CE6CA2" />
+<constant name="C_button_bg_active" value="#ce6ca2" />
 
 <constant name="C_button_border_hover" value="#D1D3DA" />
 
 <constant name="C_icon_bg_focused" value="#90949E" />
 <constant name="C_icon_bg_unfocused" value="#B6B8C0" />
 <constant name="C_icon_bg_hover" value="#7A7F8B" />
-<constant name="C_icon_bg_active" value="#CE6CA2" />
+<constant name="C_icon_bg_active" value="#ce6ca2" />
 
 <!-- geometries -->
 
@@ -86,7 +86,7 @@
 	<border name="title_border" left="10" right="10" top="0" bottom="0" />
 </frame_geometry>
 
-<frame_geometry name="modal" title_scale="small" hide_buttons="true" rounded_top_left="1" rounded_top_right="1" parent="small">
+<frame_geometry name="modal" title_scale="small" hide_buttons="false" rounded_top_left="1" rounded_top_right="1" parent="small">
 	<distance name="title_vertical_pad" value="5"/>
 </frame_geometry>
 
