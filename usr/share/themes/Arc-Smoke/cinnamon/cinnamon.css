@@ -266,7 +266,7 @@ StScrollBar {
       background-image: url("common-assets/switch/switch-on-selected.svg"); }
 
 .cinnamon-link {
-  color: #888787;
+  color: #888888;
   text-decoration: underline; }
   .cinnamon-link:hover {
     color: #a1a1a1; }

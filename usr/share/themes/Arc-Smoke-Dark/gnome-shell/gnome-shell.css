@@ -169,7 +169,7 @@ StScrollBar {
 .shell-link {
   color: #d4d4d4; }
   .shell-link:hover {
-    color: #eeeded; }
+    color: #eeeeee; }
 
 .headline {
   font-size: 11pt; }
@@ -1280,6 +1280,7 @@ StScrollBar {
   max-width: 1000px; }
 
 #searchResultsContent {
+  max-width: 1000px;
   padding-left: 20px;
   padding-right: 20px;
   spacing: 16px; }
@@ -1378,7 +1379,7 @@ StScrollBar {
 .bottom #dash .app-well-app:active .overview-icon,
 .top #dash .app-well-app:active .overview-icon {
   box-shadow: none;
-  background-color: #888787; }
+  background-color: #888888; }
 
 #dash .app-well-app-running-dot {
   width: 11px;
@@ -2169,7 +2170,7 @@ StScrollBar {
 .lg-dialog .shell-link {
   color: #d4d4d4; }
   .lg-dialog .shell-link:hover {
-    color: #eeeded; }
+    color: #eeeeee; }
 
 .lg-completions-text {
   font-size: 9pt;

@@ -167,7 +167,7 @@ StScrollBar {
       background-image: url("common-assets/switch/switch-on-selected.svg"); }
 
 .shell-link {
-  color: #888787; }
+  color: #888888; }
   .shell-link:hover {
     color: #a1a1a1; }
 
@@ -1280,6 +1280,7 @@ StScrollBar {
   max-width: 1000px; }
 
 #searchResultsContent {
+  max-width: 1000px;
   padding-left: 20px;
   padding-right: 20px;
   spacing: 16px; }
@@ -1378,7 +1379,7 @@ StScrollBar {
 .bottom #dash .app-well-app:active .overview-icon,
 .top #dash .app-well-app:active .overview-icon {
   box-shadow: none;
-  background-color: #888787; }
+  background-color: #888888; }
 
 #dash .app-well-app-running-dot {
   width: 11px;
@@ -1617,7 +1618,7 @@ StScrollBar {
   color: #5c616c; }
 
 .url-highlighter {
-  link-color: #888787; }
+  link-color: #888888; }
 
 .notification-banner,
 .notification-banner:hover,
@@ -2167,7 +2168,7 @@ StScrollBar {
     selected-color: #a1a1a1; }
 
 .lg-dialog .shell-link {
-  color: #888787; }
+  color: #888888; }
   .lg-dialog .shell-link:hover {
     color: #a1a1a1; }
 
